@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  FirstApp
+//
+//  Created by Aurigo Software on 5/10/17.
+//  Copyright © 2017 Apptarix. All rights reserved.
+//
+
+
+APPNAME = TESTING
+BUNDLE_ID = com.test.first
+CODE = iPhone Developer: Muralidhar K Sridhar (4459SZAGDE)
